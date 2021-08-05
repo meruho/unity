@@ -4,6 +4,8 @@ using UnityEngine;
 using System;
 using Unity.Collections.LowLevel.Unsafe;
 
+//자음&모음을 완성된 글자로 조합
+
 public class HangulCombination : MonoBehaviour
 {
     private string row_chosung = "ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ";
